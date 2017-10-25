@@ -18,3 +18,4 @@
 	sslVerify = false
 [https]
 	sslVerify = false
+       logs = log --pretty=oneline --pretty=format:'%h - %s'
